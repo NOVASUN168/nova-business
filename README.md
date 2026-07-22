@@ -13,6 +13,9 @@ Nova（孙子霖）的生意与内容项目仓库（**公开 / public**）。
 ## 本仓库包含
 - `README.md`：本说明文件
 - `GitHub账号信息.md`：你的 GitHub 账户与连接信息汇总（方便以后随时查看）
+- `suncompound/`：你的 **suncompound 生意项目**资料
+  - `开通Stripe与域名指引.md`：注册域名 suncompound.com + 开通 Stripe 澳大利亚收款的中文步骤指引
+  - `suncompound-site/index.html`：品牌落地页源码（可随时让我改文案/配色）
 
 ## 常用命令（在终端里用）
 ```bash
